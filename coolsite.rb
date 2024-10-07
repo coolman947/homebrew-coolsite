@@ -2,7 +2,7 @@ class Coolsite < Formula
   desc "Description of the coolsite package"
   homepage "https://github.com/coolman947/coolsite"
   url "https://github.com/coolman947/coolsite/archive/v1.0.tar.gz"
-  sha256 "680291e9e857cfd2d4875ad883fa8534e16a4f1275215ac9f3702ba0f02954e2"
+  sha256 "61e7a3f66dbb7d4a7983e3e26873f52c7959082033bf01410c75b47450377e49"
     
   def install
     bin.install "coolsite.py"
